@@ -1,8 +1,8 @@
 {
     "private": true,
     "scripts": {
-        "dev": "next",
-        "build": "next build"
+        "dev": "vite",
+        "build": "vite build"
     },
     "devDependencies": {
         "@alpinejs/focus": "^3.10.5",
